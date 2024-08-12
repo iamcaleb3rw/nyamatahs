@@ -3,7 +3,8 @@ import Image from 'next/image'
 import logoImage from '@/public/logo.png'
 import Link from 'next/link'
 import { Button } from '@/components/ui/button'
-import { Download } from 'lucide-react'
+import { Download, Menu } from 'lucide-react'
+import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet'
 
 function Navbar() {
   return (
@@ -35,6 +36,7 @@ function Navbar() {
                 </Button>
             </div>
         </div>
+
     </div>
   )
 }
