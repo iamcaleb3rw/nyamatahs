@@ -23,7 +23,7 @@ function Mission() {
                 </div>
                 <div className='border h-[50%] p-6'>
                     <h1 className='text-xl font-bold underline text-center mb-4'>Values</h1>
-                    <p>"Our vision is to be a leading educational institution recognized for inspiring and cultivating future leaders who are knowledgeable, innovative, and ethical. Nyamata High School aspires to create a culture of lifelong learning, where students are encouraged to pursue their passions, embrace diversity, and make meaningful contributions to society.</p>
+                    <p>Our vision is to be a leading educational institution recognized for inspiring and cultivating future leaders who are knowledgeable, innovative, and ethical. Nyamata High School aspires to create a culture of lifelong learning, where students are encouraged to pursue their passions, embrace diversity, and make meaningful contributions to society.</p>
                 </div>
             </div>
         </div>
