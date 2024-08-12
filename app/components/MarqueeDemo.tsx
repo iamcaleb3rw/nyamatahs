@@ -48,7 +48,7 @@ const ReviewCard = ({
       )}
     >
       <div className="">
-        <Image className="w-full" alt="images" src={img} />
+        <Image className="w-full" alt="images" src={img} priority/>
       </div>
     </figure>
   );
