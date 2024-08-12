@@ -14,7 +14,7 @@ function Contact() {
                 <MapPin />
                 <h1 className='text-xl text-slate-900 font-semibold'>Location</h1>
               </div>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.0388376320834!2d30.079502873591423!3d-2.13879063714924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19c354ba6c00c68d%3A0x6d61854c6f31fb6a!2sNyamata%20High%20School!5e0!3m2!1sen!2srw!4v1723466597531!5m2!1sen!2srw"  loading="lazy" referrerpolicy="no-referrer-when-downgrade" className='w-full h-[300px] rounded-[10px_10px_10px_10px] border'></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.0388376320834!2d30.079502873591423!3d-2.13879063714924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19c354ba6c00c68d%3A0x6d61854c6f31fb6a!2sNyamata%20High%20School!5e0!3m2!1sen!2srw!4v1723466597531!5m2!1sen!2srw"  loading="lazy" className='w-full h-[300px] rounded-[10px_10px_10px_10px] border'></iframe>
               
             </div>
             <div className='border bg-white p-3 rounded-[0_22px_22px_0]'>
